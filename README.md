@@ -399,7 +399,7 @@ go test -bench=. -benchmem
 
 | 🎬 **Live Performance Demo** | 📄 **JSON Output Structure** |
 |:---:|:---:|
-| ![Live Crawling Demo](screenshots/live-crawling-demo.gif) | ![JSON Output](screenshots/json_output.png) |
+| ![Live Crawling Demo](screenshots/live-crawling-demo.gif) | ![JSON Output](screenshots/json_output.PNG) |
 | **Real-time concurrent crawling**<br/>• Live performance metrics<br/>• Worker statistics<br/>• Progress updates<br/>• 10+ URLs/second throughput | **Structured crawl results**<br/>• URL, title, depth tracking<br/>• Link extraction<br/>• HTTP status codes<br/>• Response timing data |
 
 </div>
