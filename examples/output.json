@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://httpbin.org",
+    "title": "httpbin.org",
+    "depth": 0,
+    "links": [
+      "https://github.com/requests/httpbin",
+      "https://kennethreitz.org",
+      "https://github.com/rochacbruno/flasgger",
+      "https://httpbin.org/forms/post"
+    ],
+    "status": 200,
+    "processed_at": "2025-09-19T11:20:56.4519206+03:00",
+    "response_time_ms": 4363211700
+  }
+]
